@@ -6,7 +6,7 @@ The following project is a website design concept presentation, based from an 
 
 <h2 style="font-size: 18px">THE CHALLENGE</h2>
 
-The inquiry from Hourglass was for a design that conveys a sense of importance, while being agreeable. They wanted an informative website that is easy to navigate. The inquiry requested it include About, Shop, and Privacy Policy Pages, with the Landing Page containing a Contact Us section. They requested the Call to Action to be convincing users to subscribe to their newsletter. They also wanted a luxurious design that incorporates their brand color, which is yellow.
+The inquiry from Hourglass was for a design that "conveys a sense of importance, while being agreeable". They wanted an informative website that is easy to navigate. The inquiry requested it include About, Shop, and Privacy Policy Pages, with the Landing Page containing a Contact Us section. They requested the Call to Action to be convincing users to subscribe to their newsletter. They also wanted a luxurious design that incorporates their brand color, which is yellow.
 
 <h2 style="font-size: 18px">BRAND GUIDELINES</h2>
 
@@ -15,31 +15,7 @@ The inquiry from Hourglass was for a design that conveys a sense of importance
   <img src="">
 </div>
 
-<h2 style="font-size: 18px">INITIAL UI DESIGN (VERSION 1)</h2>
-
-<h3 style="font-size: 16px">Landing Page</h3>
-
-<div align="center">
-  <img src="Web -- Landing Page - Post-Animation.png">
-</div>
-
-<h3 style="font-size: 16px">About Page</h3>
-
-<div align="center">
-  <img src="">
-</div>
-
-<h3 style="font-size: 16px">Shop Page</h3>
-
-<div align="center">
-  <img src="">
-</div>
-
-<h3 style="font-size: 16px">Locate Dealer Page</h3>
-
-<div align="center">
-  <img src="">
-</div>
+<h2 style="font-size: 18px">THE PROCESS</h2>
 
 <!--The above is my completed (version 1) clickable, high-fidelity wireframe prototype personally created in Adobe XD based on the fictional client's request, design structures used in real vehicle retailers' websites, and user experience (UX) design standards and guidelines. *Prototype contains "Lorem Ipsums" taking the place of an actual body of content a real client would have written. Images were taken from resources such as Unsplash, Pexels, Shutterstock, etc.-->
 
