@@ -20,7 +20,7 @@ The inquiry from Hourglass was for a design that conveys a sense of importance
 <h3 style="font-size: 16px">Landing Page</h3>
 
 <div align="center">
-  <img src="">
+  <img src="Web -- Landing Page - Post-Animation.png">
 </div>
 
 <h3 style="font-size: 16px">About Page</h3>
