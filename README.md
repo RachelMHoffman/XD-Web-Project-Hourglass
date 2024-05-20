@@ -11,8 +11,8 @@ The inquiry from Hourglass was for a design that conveys an influential brand 
 <h2 style="font-size: 18px">BRAND GUIDELINES</h2>
 
 <div align="center">
-  <img src="Moodboard.png" width="45%" height="300px">
-  <img src="Color_Palette_and_Fonts.png" width="45%" height="300px">
+  <img src="Moodboard.png" width="45%">
+  <img src="Color_Palette_and_Fonts.png" width="45%">
 </div>
 
 <h2 style="font-size: 18px">THE PROCESS</h2>
