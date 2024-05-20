@@ -6,13 +6,13 @@ The following project is a website design concept presentation, based from an 
 
 <h2 style="font-size: 18px">THE CHALLENGE</h2>
 
-The inquiry from Hourglass was for a design that "conveys a sense of importance, while being agreeable". They wanted an informative website that is easy to navigate. The inquiry requested it include About, Shop, and Privacy Policy Pages, with the Landing Page containing a Contact Us section. They requested the Call to Action to be convincing users to subscribe to their newsletter. They also wanted a luxurious design that incorporates their brand color, which is yellow.
+The inquiry from Hourglass was for a design that conveys an influential brand and feels consistent throughout the prototype. They wanted an informative website that is easy to navigate. The inquiry requested it include About, Shop, and Privacy Policy Pages, with the Landing Page containing a Contact Us section. They wanted a section of the landing page dedicated to convincing users to subscribe to their newsletter. They also wanted a luxurious design that incorporates their brand color, yellow.
 
 <h2 style="font-size: 18px">BRAND GUIDELINES</h2>
 
 <div align="center">
-  <img src="">
-  <img src="">
+  <img src="Moodboard.png">
+  <img src="Color_Palette_and_Fonts.png">
 </div>
 
 <h2 style="font-size: 18px">THE PROCESS</h2>
@@ -36,30 +36,30 @@ Commonly written suggestions given by testers included:
 
 Keeping this feedback in mind, I re-visited my prototype to create an updated version with a renewed perspective.
 
-<h2 style="font-size: 18px">FINALIZED DESIGN RESULT</h2>
+<h2 style="font-size: 18px">FINALIZED DESIGN</h2>
 
 The following are static .PNG screenshots highlighting the prototype, which is an XD file. XD files are not able to be embedded into GitHub repositories at this time. If you wish to view more high-definition screenshots, please see the accompanying PDFs in this repository. 
 
 <h3 style="font-size: 16px">Landing Page</h3>
 
 <div align="center">
-  <img src="">
+  <img src="Landing_Page_Post_Animation.png">
 </div>
 
 <h3 style="font-size: 16px">About Page</h3>
 
 <div align="center">
-  <img src="">
-</div>
-
-<h3 style="font-size: 16px">Shop Page</h3>
-
-<div align="center">
-  <img src="">
+  <img src="About_Us_Page.png">
 </div>
 
 <h3 style="font-size: 16px">Locate Dealer Page</h3>
 
 <div align="center">
-  <img src="">
+  <img src="Locate_Dealer_Page.png">
 </div>
+
+<h3 style="font-size: 16px">Shop Page</h3>
+
+<img align="center" src="Shop_Page_1.png">
+<img align="center" src="Vehicle_Select_Page_1.png">
+<img align="center" src="Schedule_Test_Drive_Page.png">
