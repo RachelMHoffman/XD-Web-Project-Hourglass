@@ -52,7 +52,7 @@ The following are static .PNG screenshots highlighting the prototype, which is a
 
 <div align="center"><img src="Locate_Dealer_Page.png" width="75%" height="75%"></div>
 
-<h3 style="font-size: 16px" align="center">SHOP PAGE</h3>
+<h3 style="font-size: 16px" align="center">SHOP/FIND VEHICLE USER FLOW</h3>
 
 <div align="center"><img src="Shop_Page_1.png" width="75%" height="75%"></div>
 
@@ -67,3 +67,30 @@ The following are static .PNG screenshots highlighting the prototype, which is a
 <br>
 
 <div align="center"><img src="Schedule_Test_Drive_Page.png" width="75%" height="75%"></div>
+
+<br>
+<div align="center">Selecting "Select Date and Time" in the form leads to the following sequence of modal dialog boxes. ⬇️</div>
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      1. Selecting a date leads the user to selecting a time. 
+      <img src="Select_Date_Modal_Dialog_Box.png" width="" height="">
+    </td>
+    <td width="50%">
+      2. Selecting a time leads the user to a prompt to confirm the user's test drive request. 
+      <img src="Select_Time_Modal_Dialog_Box.png" width="" height="">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      3. Selecting "Make changes to request" takes the user back to the Schedule Test Drive Page. Selecting "Send Test Drive Request" leads           to a confirmation that the user's request was received and for the user to expect a follow-up email.
+      <img src="Send_Test_Drive_Request_Modal_Dialog_Box.png" width="" height="">
+    </td>
+    <td width="50%">
+      4. Selecting "HOME" takes the user back to the Landing Page.
+      <img src="Test_Drive_Request_Sent_Modal_Dialog_Box.png" width="" height="">
+    </td>
+  </tr>
+</table>
