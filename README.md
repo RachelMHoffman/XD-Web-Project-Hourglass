@@ -11,8 +11,8 @@ The inquiry from Hourglass was for a design that conveys an influential brand 
 <h2 style="font-size: 18px">BRAND GUIDELINES</h2>
 
 <div align="center">
-  <img src="Moodboard.png" width="40%">
-  <img src="Color_Palette_and_Fonts.png" width="40%">
+  <img src="Moodboard.png" width="45%" height="300px">
+  <img src="Color_Palette_and_Fonts.png" width="45%" height="300px">
 </div>
 
 <h2 style="font-size: 18px">THE PROCESS</h2>
@@ -40,39 +40,30 @@ Keeping this feedback in mind, I re-visited my prototype to create an updated ve
 
 The following are static .PNG screenshots highlighting the prototype, which is an XD file. XD files are not able to be embedded into GitHub repositories at this time. If you wish to view more high-definition screenshots, please see the accompanying PDFs in this repository. 
 
-<h3 style="font-size: 16px" align="center">Landing Page</h3>
+<h3 style="font-size: 16px" align="center">LANDING PAGE</h3>
 
-<div align="center">
-  <img src="Landing_Page_Post-Animation.png">
-</div>
+<div align="center"><img src="Landing_Page_Post-Animation.png" width="75%" height="75%"></div>
 
-<h3 style="font-size: 16px" align="center">About Page</h3>
+<h3 style="font-size: 16px" align="center">ABOUT PAGE</h3>
 
-<div align="center">
-  <img src="About_Us_Page.png">
-</div>
+<div align="center"><img src="About_Us_Page.png" width="75%" height="75%"></div>
 
-<h3 style="font-size: 16px" align="center">Locate Dealer Page</h3>
+<h3 style="font-size: 16px" align="center">LOCATE DEALER PAGE</h3>
 
-<div align="center">
-  <img src="Locate_Dealer_Page.png">
-</div>
+<div align="center"><img src="Locate_Dealer_Page.png" width="75%" height="75%"></div>
 
-<h3 style="font-size: 16px" align="center">Shop Page</h3>
+<h3 style="font-size: 16px" align="center">SHOP PAGE</h3>
 
-<img src="Shop_Page_1.png">
+<div align="center"><img src="Shop_Page_1.png" width="75%" height="75%"></div>
 
-Selecting "Learn More" on a vehicle summary leads to the following page. ⬇️
+<br>
+<div align="center">Selecting "Learn More" under a vehicle summary leads to the following page. ⬇️</div>
 <br>
 
-<img src="Vehicle_Select_Page_1.png">
+<div align="center"><img src="Vehicle_Select_Page_1.png" width="75%" height="75%"></div>
 
-Selecting "Schedule a Test Drive" leads to the following page. ⬇️
+<br>
+<div align="center">Selecting "Schedule a Test Drive" under the vehicle's bio leads to the following page. ⬇️</div>
 <br>
 
-<img src="Schedule_Test_Drive_Page.png">
-
-Selecting "" gives the following pop-up screen, prompting the user to return to the landing page. ⬇️
-<br>
-
-<img src="">
+<div align="center"><img src="Schedule_Test_Drive_Page.png" width="75%" height="75%"></div>
