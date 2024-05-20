@@ -11,8 +11,8 @@ The inquiry from Hourglass was for a design that conveys an influential brand 
 <h2 style="font-size: 18px">BRAND GUIDELINES</h2>
 
 <div align="center">
-  <img src="Moodboard.png">
-  <img src="Color_Palette_and_Fonts.png">
+  <img src="Moodboard.png" width="40%">
+  <img src="Color_Palette_and_Fonts.png" width="40%">
 </div>
 
 <h2 style="font-size: 18px">THE PROCESS</h2>
@@ -25,7 +25,7 @@ From these results, I found that almost all of the testers had a positive impre
 
 Commonly written suggestions given by testers included:
 
-<ul align="">
+<ul>
   <li>Incorporating more color variety</li>
   <li>Decreasing number of vehicle description boxes on each Shop Page</li>
   <li>Reducing amounts of text to de-clutter Shop, About Us, & Privacy Policy Pages</li>
@@ -40,26 +40,39 @@ Keeping this feedback in mind, I re-visited my prototype to create an updated ve
 
 The following are static .PNG screenshots highlighting the prototype, which is an XD file. XD files are not able to be embedded into GitHub repositories at this time. If you wish to view more high-definition screenshots, please see the accompanying PDFs in this repository. 
 
-<h3 style="font-size: 16px">Landing Page</h3>
+<h3 style="font-size: 16px" align="center">Landing Page</h3>
 
 <div align="center">
   <img src="Landing_Page_Post-Animation.png">
 </div>
 
-<h3 style="font-size: 16px">About Page</h3>
+<h3 style="font-size: 16px" align="center">About Page</h3>
 
 <div align="center">
   <img src="About_Us_Page.png">
 </div>
 
-<h3 style="font-size: 16px">Locate Dealer Page</h3>
+<h3 style="font-size: 16px" align="center">Locate Dealer Page</h3>
 
 <div align="center">
   <img src="Locate_Dealer_Page.png">
 </div>
 
-<h3 style="font-size: 16px">Shop Page</h3>
+<h3 style="font-size: 16px" align="center">Shop Page</h3>
 
-<img align="center" src="Shop_Page_1.png">
-<img align="center" src="Vehicle_Select_Page_1.png">
-<img align="center" src="Schedule_Test_Drive_Page.png">
+<img src="Shop_Page_1.png">
+
+Selecting "Learn More" on a vehicle summary leads to the following page. ⬇️
+<br>
+
+<img src="Vehicle_Select_Page_1.png">
+
+Selecting "Schedule a Test Drive" leads to the following page. ⬇️
+<br>
+
+<img src="Schedule_Test_Drive_Page.png">
+
+Selecting "" gives the following pop-up screen, prompting the user to return to the landing page. ⬇️
+<br>
+
+<img src="">
