@@ -43,7 +43,7 @@ The following are static .PNG screenshots highlighting the prototype, which is a
 <h3 style="font-size: 16px">Landing Page</h3>
 
 <div align="center">
-  <img src="Landing_Page_Post_Animation.png">
+  <img src="Landing_Page_Post-Animation.png">
 </div>
 
 <h3 style="font-size: 16px">About Page</h3>
